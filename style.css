@@ -1,0 +1,163 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	width: 100%;
+	height: 800px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+header{
+	width: 98%;
+	height: 20%;
+}
+#title{
+	width: 100%;
+	height: 75%;
+	background-color: #47e3ac;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#subTitle{
+	width: 100%;
+	height: 25%;
+	background-color: #167a6a;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+main{
+	width: 98%;
+	height: 60%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.firstBlock{
+	width: 24%;
+	height: 98%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+.firstSubBlocks{
+	height: 32%;
+	width: 100%;
+	background-color: #00d4ff;
+}
+.secondBlocks{
+	height: 32%;
+	width: 100%;
+	background-color: #1876e9;
+}
+#first{
+	height: 26%;
+	width: 100%;
+	background-color: #fb5003;
+}
+#second{
+	height: 11%;
+	width: 100%;
+	background-color: #fb6763;
+}
+#third{
+	height: 26%;
+	width: 100%;
+	background-color: #e93e3b;
+}
+#forth{
+	height: 11%;
+	width: 100%;
+		background-color: #fb6763;
+}
+#fifth{
+	height: 26%;
+	width: 100%;
+	background-color: #b55f5d;
+}
+.thirdSubBlocks{
+	height: 32%;
+	width: 100%;
+	background-color: #2f4df2;
+}
+.secondBlock{
+	width: 50%;
+	height: 98%;
+}
+.secondSubBlocks{
+	width: 100%;
+	height: 20%;
+	background-color: red;
+}
+.thirdBlock{
+	width: 24%;
+	height: 98%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+.firstSub{
+	width: 100%;
+	height: 68%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+#firstColumn{
+	width: 48%;
+	height: 100%;
+	background-color: yellow;
+}
+#secondColumn{
+	width: 48%;
+	height: 100%;
+	background-color: yellow;
+}
+.secondSub{
+	width: 100%;
+	height: 30%;
+	background-color: orange;
+}
+#firstRow{
+	width: 100%;
+	height: 20%;
+	background-color: #ffec12;
+}
+#secondRow{
+	width: 100%;
+	height: 20%;
+	background-color: #f4df12;
+}
+#thirdRow{
+	width: 100%;
+	height: 20%;
+	background-color: #FFFF00;
+}
+#forthtRow{
+	width: 100%;
+	height: 20%;
+	background-color: #f1db02;
+}
+#fifthRow{
+	width: 100%;
+	height: 20%;
+	background-color: #f9f366;
+}
+
+footer{
+	width: 98%;
+	height: 20%;
+	background-color: #167a6a
+}
+#footerTitle{
+	width: 100%;
+	height: 75%;
+	display: flex;
+	justify-content: center;
+}
